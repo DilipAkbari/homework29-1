@@ -1,0 +1,9 @@
+2020-04-29 16:04:389 INFO       BrowserSelector :17 - Launching Chrome Browser
+2020-04-29 16:04:567 INFO       HomePage :24 - Clickin on bank tab :[[ChromeDriver: chrome on WINDOWS (4860b21708b9278b973c4f7465aef222)] -> link text: Bank]
+2020-04-29 16:04:957 INFO       HomePage :31 - Swtich on bank tab :Proxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-29 16:04:477 INFO       BrowserSelector :17 - Launching Chrome Browser
+2020-04-29 16:04:76 INFO       HomePage :24 - Clickin on bank tab :[[ChromeDriver: chrome on WINDOWS (80568c21e9040e21786248b5af102117)] -> link text: Bank]
+2020-04-29 16:04:207 INFO       HomePage :31 - Swtich on bank tab :Proxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-29 16:04:362 INFO       BrowserSelector :17 - Launching Chrome Browser
+2020-04-29 16:04:167 INFO       HomePage :24 - Clickin on bank tab :[[ChromeDriver: chrome on WINDOWS (055abcb7fd520f3f3cab2a259920373b)] -> link text: Bank]
+2020-04-29 16:04:981 INFO       HomePage :31 - Swtich on bank tab :Proxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
